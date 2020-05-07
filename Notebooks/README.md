@@ -1,1 +1,1 @@
-Ce dossier les notebook du projet.
+Ce dossier contient les notebook du projet.
